@@ -13,3 +13,5 @@ To install:
 - Automated installation!
 
 Once installation is complete, the machine will boot directly into OpenITG.
+
+We aim to add configuration features in the future that can be booted into to modify an existing installation, or customize a new one.

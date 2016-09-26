@@ -1,7 +1,8 @@
 # ArchITG
+## This is software is still deep in development. Expect bugs and limited functionality.
 
 ArchITG is an Arch Linux based distribution developed for modified In the Groove 2 and Dance Dance Revolution arcade machines.
-This software is oriented towards a powerful OpenITG experience that cuts down the busy work many users experience when modifying a machine.
+This software is oriented towards an OpenITG experience that cuts down the busy work many users experience when preparing a machine for modification.
 
 This is a fully self-installing distribution with user-friendliness foremost in mind.
 
